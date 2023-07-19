@@ -4,7 +4,7 @@
 
 <img src = "files/cpt.png" width = 100%>
 <img src = "files/standby.png" width = 100%>
-[PKT](https://github.com/Anton13Th/Disaster-recovery-Keepalived/blob/main/files/hsrp_advanced_hw_nagornov.pkt)  
+[PKT](https://github.com/Anton13Th/Disaster-recovery-Keepalived/blob/main/files/hsrp_advanced_hw_nagornov.pkt)
 
 ### Задание 2
 
@@ -12,5 +12,5 @@
 <img src = "files/vm2.png" width = 100%>
 <img src = "files/vm1stopnginx.png" width = 100%>
 <img src = "files/vm2stopnginx.png" width = 100%>
-[Script](https://github.com/Anton13Th/Disaster-recovery-Keepalived/blob/main/files/test80.sh)  
+[Script](https://github.com/Anton13Th/Disaster-recovery-Keepalived/blob/main/files/test80.sh)   
 [Config](https://github.com/Anton13Th/Disaster-recovery-Keepalived/blob/main/files/keepalived.conf)
